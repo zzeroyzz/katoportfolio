@@ -195,19 +195,16 @@ const projects = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
-  contactUrl: "",
+    "Feel free to contact me by submitting this form, clicking on Github, LinkedIn, Resume icons.",
+  copyright: "",
+  contactUrl: "https://formspree.io/f/mwkajnkp",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
-  resume: "https://novoresume.com/",
+  github: "https://github.com/zzeroyzz",
+  linkedin: "https://www.linkedin.com/in/kato-hernandez-92b1801ab/",
+  resume: "https://drive.google.com/file/d/1h6hFI_2MssnKVOi289Wj83i02oA-1bDW/view?usp=sharing",
 };
 // Dont change anything here
 export {
