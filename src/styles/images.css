@@ -5,7 +5,7 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('https://images.unsplash.com/photo-1585562125287-d748f3097a8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2487&q=80');
     cursor: none;    
 }
 .project2{
@@ -28,7 +28,7 @@
     background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
     cursor: none;
 }
-/* Miscelaneous Activities photo */
+/* Miscelaneous Activities photo
 .misc1{
     background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
     cursor: none;
@@ -40,4 +40,4 @@
 .misc3{
     background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
     cursor: none;
-}
+} */
